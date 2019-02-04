@@ -4,7 +4,6 @@ A tutorial experimenting with different options of tidyverse's ggplot.
 Data Visualization using ggplot
 ================
 Data Vizard : Madhavi
-2/2/2019
 
 Data Visualization using ggplot
 -------------------------------
