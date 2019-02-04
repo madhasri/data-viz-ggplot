@@ -4,7 +4,7 @@ A tutorial experimenting with different options of tidyverse's ggplot.
 Data Visualization using ggplot
 ================
 Data Vizard : Madhavi
-2/2/2019
+
 
 You can use visual encodings like color, shape, size and alpha to encode a third variable. The choice of encodings depends on whether the third variable is continuous or discrete. For example, If there is an inherent order in the variable, one can use size to visually encode it.
 
